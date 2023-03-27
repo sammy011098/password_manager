@@ -1,5 +1,5 @@
 class BasePasswordManager(object):
-    old_passwords = ["Python",1236,"ac14"]                                                                                        
+    old_passwords = ["C++",1998,"KUBERNETES"]                                                                                        
     def get_password(self):
         return self.old_passwords[-1]
 
